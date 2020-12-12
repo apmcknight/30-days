@@ -1,0 +1,12 @@
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/bin/Debug/netcoreapp3.1/day-two.deps.json
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/bin/Debug/netcoreapp3.1/day-two.runtimeconfig.json
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/bin/Debug/netcoreapp3.1/day-two.runtimeconfig.dev.json
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/bin/Debug/netcoreapp3.1/day-two.dll
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/bin/Debug/netcoreapp3.1/day-two.pdb
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/obj/Debug/netcoreapp3.1/day-two.csprojAssemblyReference.cache
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/obj/Debug/netcoreapp3.1/day-two.AssemblyInfoInputs.cache
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/obj/Debug/netcoreapp3.1/day-two.AssemblyInfo.cs
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/obj/Debug/netcoreapp3.1/day-two.csproj.CoreCompileInputs.cache
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/obj/Debug/netcoreapp3.1/day-two.dll
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/obj/Debug/netcoreapp3.1/day-two.pdb
+/Users/AdamMcKnight/Documents/GitHub/30-days/day-two/obj/Debug/netcoreapp3.1/day-two.genruntimeconfig.cache
